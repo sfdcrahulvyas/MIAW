@@ -8,8 +8,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DWt000004KWz7',
-				'miaw',
-				'https://storm-bd220aae535c13.my.site.com/ESWmiaw1735555200549',
+				'miaw_c',
+				'https://storm-bd220aae535c13.my.site.com/ESWmiawc1735650621813',
 				{
 					scrt2URL: 'https://storm-bd220aae535c13.my.salesforce-scrt.com'
 				}
@@ -19,7 +19,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://storm-bd220aae535c13.my.site.com/ESWmiaw1735555200549/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://storm-bd220aae535c13.my.site.com/ESWmiawc1735650621813/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 
 
